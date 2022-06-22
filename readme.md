@@ -15,6 +15,7 @@ A simple web application to count the calories of the food items entered using H
 - HTML5
 - CSS3
 - Javascript
+- API used [calorie Ninja](https://calorieninjas.com/api)
 
 - information to calculate how much calories you should consume is based off of this [verywellfit](https://www.verywellfit.com/how-many-calories-do-i-need-each-day-2506873)
 
