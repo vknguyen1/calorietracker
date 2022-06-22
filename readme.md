@@ -4,13 +4,11 @@ A simple web application to count the calories of the food items entered using H
 
 # User Stories
 
+- As a user, I want to be able to calculate how much calories I should be consuming daily, based on my weight, height, age, and lifestyle
+
 - As a user, I want to be able to enter a food item and have a value returned to me of the food item's calories.
 
 - As a user, I should see a tracker counting how many calories I have submitted .
-
-- As a user, I want to be able to track my daily calorie intake so the calorie tracker should refresh each day.
-
-- As a user, I want to know when I have met my calorie intake goal.
 
 # Technologies Used
 
@@ -20,14 +18,14 @@ A simple web application to count the calories of the food items entered using H
 
 - information to calculate how much calories you should consume is based off of this [verywellfit](https://www.verywellfit.com/how-many-calories-do-i-need-each-day-2506873)
 
-# Screenshots
-
 # Getting Started
 
-[Click Here](www.google.com) to start tracking your calories!
+[Click Here](https://main.d2120qbdky5z9h.amplifyapp.com/) to start tracking your calories!
 
 # Future Enhancements
 
 - Add more potential food items
 
--
+- Add Macro tracker as well to track protien, fat, and carbohydrate intake
+
+- Track and store the calories consumed dailies to track
