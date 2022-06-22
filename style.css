@@ -1,0 +1,63 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 400;
+}
+body {
+  background-color: rgb(184, 192, 229);
+  display: block;
+}
+
+#title {
+  text-align: center;
+  font-size: 3rem;
+  margin-bottom: 1.5rem;
+}
+
+#top-section {
+  min-height: 125px;
+  display: grid;
+  background-color: rgb(255, 255, 255);
+  background: url(https://www.managers.org.uk/wp-content/uploads/2020/03/xhealthywork.jpg.pagespeed.ic.mMymAPfhn4.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  color: rgb(0, 0, 0);
+}
+
+#calculator {
+  padding: 5px;
+  border: solid 1px;
+  width: fit-content;
+  height: fit-content;
+  background-color: #fff;
+  border-radius: 20px;
+}
+
+#suggestion {
+  font-size: small;
+  display: block;
+}
+
+.calorieOutput {
+  display: flex;
+  flex-direction: column;
+  font-size: 16px;
+  display: block;
+}
+
+#foodtracker {
+  display: flex;
+  flex-direction: column;
+  border: black solid 1px;
+}
+
+#container {
+  display: flex;
+  flex-direction: column;
+  padding: 0 350px;
+  height: calc(100vh - 125px);
+  justify-content: center;
+}
